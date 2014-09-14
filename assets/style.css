@@ -23,7 +23,7 @@ body {
 }
 body * {
 	font-size: 14px;
-	color: #666;
+	color: #969696;
 	line-height: 22px;
 }
 @charset "UTF-8";
@@ -96,7 +96,7 @@ body * {
   float: none;
   zoom: 1;
   position: relative;
-  top: 30px;
+  top: 13px;
 }
 /*
 #cssmenu > ul:before {
@@ -157,7 +157,7 @@ body * {
   border-top: none;
   right: 0;
   left: -20%;
-  top: 85px;
+  top: 72px;
   -webkit-border-radius: 0 0 3px 3px;
   -moz-border-radius: 0 0 3px 3px;
   -ms-border-radius: 0 0 3px 3px;
@@ -215,9 +215,9 @@ body * {
 	-webkit-transform: translate(-50%, 0);
 }
 #logo {
-  width: 90px;
+  width: 110px;
   position: relative;
-  top: -25px;
+  top: -5px;
 }
 #left-pic {
 	position: relative;
