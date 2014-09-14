@@ -114,7 +114,6 @@ body * {
 #cssmenu > ul > li > a,
 #cssmenu > ul > li > a:link,
 #cssmenu > ul > li > a:visited {
-  text-shadow: 0 -1px 1px #004881;
   color: #fff;
   padding: 7px 20px;
   display: block;
@@ -215,6 +214,11 @@ body * {
 	left: 50%;
 	-webkit-transform: translate(-50%, 0);
 }
+#logo {
+  width: 90px;
+  position: relative;
+  top: -25px;
+}
 #left-pic {
 	position: relative;
 	display: inline-block;
@@ -237,4 +241,8 @@ body * {
 .arrow {
   color: white;
   font-size: 30px;
+}
+.trim {
+  top: 65px;
+  height: 435px;
 }
